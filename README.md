@@ -1,2 +1,0 @@
-# datasciencerepository
-Coursera project
